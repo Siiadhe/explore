@@ -11,9 +11,9 @@ items:
  - Polymer/polymer
  - facebook/react
  - matreshkajs/matreshka
- - aurelia/framework
- - optimizely/nuclear-js
- - jashkenas/backbone
+ - aurelia / kerangka kerja
+-re Optimis / nuklir-
+ - jashkbackbone
  - dojo/dojo
  - jorgebucaran/hyperapp
  - riot/riot
